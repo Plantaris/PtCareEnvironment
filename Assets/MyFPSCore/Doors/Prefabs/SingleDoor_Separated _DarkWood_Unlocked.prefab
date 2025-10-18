@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6673789524729530991
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 143203613523072091, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 143203613523072091, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 143203613523072091, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1804706834779141220, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: requiredKey
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1896838764633268495, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619693492158061933, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619693492158061933, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619693492158061933, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619693492158061933, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619693492158061933, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619693492158061933, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619693492158061933, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619693492158061933, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619693492158061933, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 2619693492158061933, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3391445769512519639, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_Name
+      value: SingleDoor_Separated _DarkWood_Unlocked
+      objectReference: {fileID: 0}
+    - target: {fileID: 4556531167687399075, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: panLevelCustomCurve.m_Curve.Array.data[0].value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6202252307279502241, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: aae3c73ff4471a34d91c3dfb0602e1a0, type: 2}
+    m_RemovedComponents:
+    - {fileID: -5921241715598262402, guid: 796bcd40341b8e144b85142a9016890d, type: 3}
+    - {fileID: -5400186442407236870, guid: 796bcd40341b8e144b85142a9016890d, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3391445769512519639, guid: 796bcd40341b8e144b85142a9016890d,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -7244229917559390093}
+  m_SourcePrefab: {fileID: 100100000, guid: 796bcd40341b8e144b85142a9016890d, type: 3}
+--- !u!1 &8326810205751971256 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3391445769512519639, guid: 796bcd40341b8e144b85142a9016890d,
+    type: 3}
+  m_PrefabInstance: {fileID: 6673789524729530991}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-7244229917559390093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8326810205751971256}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92899c592fb71924fb8de19e7d3ef213, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  layer: 0
+  openTag: Open

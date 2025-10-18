@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy_Disabled_WC
+  m_Controller: {fileID: 9100000, guid: a29c2a266bae39045ab93ebc6957056f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a984656a0a7fbb646b401c3483a08d11, type: 2}
+    m_OverrideClip: {fileID: -5252816984213320552, guid: 560ffabc5c1e75b46bb83d4a8152e743,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: b2f3f67d3f1325341ab2ad46812f991d, type: 2}
+    m_OverrideClip: {fileID: 1942216372203410204, guid: 560ffabc5c1e75b46bb83d4a8152e743,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: ba0d7d500e7134d4a95e23ce041ea0c0, type: 2}
+    m_OverrideClip: {fileID: 1942216372203410204, guid: 560ffabc5c1e75b46bb83d4a8152e743,
+      type: 3}
