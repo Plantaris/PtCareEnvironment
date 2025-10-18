@@ -32,7 +32,7 @@ safety hazards, ergonomics issues, and best practices in patient care environmen
 
 ## 👤 Author
 **Keith Hallbourg**  
-[GitHub: Plantaris](https://github.com/Plantaris)
+[GitHub: Plantaris](https://github.com/Plantaris);
 https://popliteus.itch.io/
 
 ---
